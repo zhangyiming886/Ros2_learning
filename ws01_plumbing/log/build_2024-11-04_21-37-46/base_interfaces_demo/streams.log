@@ -1,0 +1,17 @@
+[0.004s] Invoking command in '/home/amon/桌面/Ros2_learning/ws01_plumbing/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amon/桌面/Ros2_learning/ws01_plumbing/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/amon/桌面/Ros2_learning/ws01_plumbing/install/base_interfaces_demo
+[0.011s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.084s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.085s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.086s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.099s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.110s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.110s]   rosidl_generate_interfaces() the passed file 'action/Progress.action'
+[0.110s]   doesn't exist relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.110s]   '/home/amon/桌面/Ros2_learning/ws01_plumbing/src/base_interfaces_demo'
+[0.110s] Call Stack (most recent call first):
+[0.110s]   CMakeLists.txt:16 (rosidl_generate_interfaces)
+[0.110s] 
+[0.110s] [0m
+[0.110s] -- Configuring incomplete, errors occurred!
+[0.110s] See also "/home/amon/桌面/Ros2_learning/ws01_plumbing/build/base_interfaces_demo/CMakeFiles/CMakeOutput.log".
+[0.112s] Invoked command in '/home/amon/桌面/Ros2_learning/ws01_plumbing/build/base_interfaces_demo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amon/桌面/Ros2_learning/ws01_plumbing/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/amon/桌面/Ros2_learning/ws01_plumbing/install/base_interfaces_demo

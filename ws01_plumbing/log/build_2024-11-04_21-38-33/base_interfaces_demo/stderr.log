@@ -1,0 +1,22 @@
+[31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:240 (list):
+  list index: 1 out of range (-1, 0)
+Call Stack (most recent call first):
+  CMakeLists.txt:16 (rosidl_generate_interfaces)
+
+[0m
+[31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:240 (list):
+  list index: 1 out of range (-1, 0)
+Call Stack (most recent call first):
+  CMakeLists.txt:16 (rosidl_generate_interfaces)
+
+[0m
+[31mCMake Error at /opt/ros/humble/share/rosidl_generator_c/cmake/rosidl_generator_c_generate_interfaces.cmake:69 (message):
+  Target dependency
+  '/Ros2_learning/ws01_plumbing/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo/msg/Student.idl'
+  does not exist
+Call Stack (most recent call first):
+  /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+  /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+  CMakeLists.txt:16 (rosidl_generate_interfaces)
+
+[0m

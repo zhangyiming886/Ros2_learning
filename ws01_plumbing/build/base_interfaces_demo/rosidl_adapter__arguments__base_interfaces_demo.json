@@ -1,0 +1,7 @@
+{
+  "package_name": "base_interfaces_demo",
+  "non_idl_tuples": [
+    "/home/amon/桌面/Ros2_learning/ws01_plumbing/src/base_interfaces_demo:msg/Student.msg",
+    "/home/amon/桌面/Ros2_learning/ws01_plumbing/src/base_interfaces_demo:srv/AddInts.srv"
+  ]
+}
