@@ -1,0 +1,4 @@
+Invoking command in '/home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo -- -j28 -l28
+Invoked command in '/home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo -- -j28 -l28
+Invoking command in '/home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo
+Invoked command in '/home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amon/桌面/Ros2_learning/ws01_plumbing/src/build/base_interfaces_demo
