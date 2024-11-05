@@ -1,6 +1,0 @@
-Invoking command in '/home/amon/Ros2_learning/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amon/Ros2_learning/ws01_plumbing/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/amon/Ros2_learning/install/base_interfaces_demo
-Invoked command in '/home/amon/Ros2_learning/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amon/Ros2_learning/ws01_plumbing/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/amon/Ros2_learning/install/base_interfaces_demo
-Invoking command in '/home/amon/Ros2_learning/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amon/Ros2_learning/build/base_interfaces_demo -- -j20 -l20
-Invoked command in '/home/amon/Ros2_learning/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amon/Ros2_learning/build/base_interfaces_demo -- -j20 -l20
-Invoking command in '/home/amon/Ros2_learning/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amon/Ros2_learning/build/base_interfaces_demo
-Invoked command in '/home/amon/Ros2_learning/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amon/Ros2_learning/build/base_interfaces_demo
