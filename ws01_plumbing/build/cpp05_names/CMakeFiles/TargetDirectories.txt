@@ -1,0 +1,10 @@
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/uninstall.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/cpp05_names_uninstall.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/demo01_names.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/test.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/edit_cache.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/rebuild_cache.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/list_install_components.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/install.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/install/local.dir
+/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names/CMakeFiles/install/strip.dir

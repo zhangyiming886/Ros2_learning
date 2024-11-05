@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target demo01_names[0m
+[100%] Built target demo01_names
+-- Install configuration: ""
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/lib/cpp05_names/demo01_names
+-- Set runtime path of "/home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/lib/cpp05_names/demo01_names" to ""
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/launch
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/launch/demo01_names_launch.py
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/ament_index/resource_index/package_run_dependencies/cpp05_names
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/ament_index/resource_index/parent_prefix_path/cpp05_names
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/environment/ament_prefix_path.sh
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/environment/ament_prefix_path.dsv
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/environment/path.sh
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/environment/path.dsv
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/local_setup.bash
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/local_setup.sh
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/local_setup.zsh
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/local_setup.dsv
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/package.dsv
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/ament_index/resource_index/packages/cpp05_names
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/cmake/cpp05_namesConfig.cmake
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/cmake/cpp05_namesConfig-version.cmake
+-- Installing: /home/amon/Ros2_learning/ws01_plumbing/install/cpp05_names/share/cpp05_names/package.xml

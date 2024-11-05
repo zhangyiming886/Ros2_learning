@@ -1,0 +1,4 @@
+Invoking command in '/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names -- -j28 -l28
+Invoked command in '/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names -- -j28 -l28
+Invoking command in '/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names
+Invoked command in '/home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/amon/Ros2_learning/ws01_plumbing/build/cpp05_names
