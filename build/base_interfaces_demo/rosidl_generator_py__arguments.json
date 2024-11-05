@@ -1,0 +1,26 @@
+{
+  "package_name": "base_interfaces_demo",
+  "output_dir": "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_generator_py/base_interfaces_demo",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo:msg/Student.idl",
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo:srv/AddInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/__init__.py",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/generate_py_impl.py",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo/msg/Student.idl",
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo/srv/AddInts.idl"
+  ]
+}

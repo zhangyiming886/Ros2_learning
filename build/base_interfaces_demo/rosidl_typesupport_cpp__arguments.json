@@ -1,0 +1,19 @@
+{
+  "package_name": "base_interfaces_demo",
+  "output_dir": "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_typesupport_cpp/base_interfaces_demo",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo:msg/Student.idl",
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo:srv/AddInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_cpp/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo/msg/Student.idl",
+    "/home/amon/Ros2_learning/build/base_interfaces_demo/rosidl_adapter/base_interfaces_demo/srv/AddInts.idl"
+  ]
+}
